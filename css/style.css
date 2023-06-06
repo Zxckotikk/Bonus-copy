@@ -1,0 +1,69 @@
+* {
+  font-family: "Inter";
+  font-weight: 400;
+}
+header {
+  background-image: url(../img/fon-bonus.png);
+  background-repeat: no-repeat;
+}
+.header-list {
+  padding-top: 23px;
+  display: flex;
+  padding-left: 198px;
+  gap: 32px;
+  font-size: 11px;
+  line-height: 24px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+.header-link {
+  color: #e4d8cc;
+}
+.header-contacts {
+  display: flex;
+}
+.header-phone {
+  padding-left: 253px;
+  color: #e4d8cc;
+}
+.hero-title {
+  width: 838px;
+  height: 121px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 57px;
+  line-height: 60px;
+  /* or 106% */
+
+  color: #e4d8cc;
+}
+.hero-text {
+  width: 561px;
+  height: 28px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* identical to box height, or 156% */
+
+  color: #c3bab1;
+}
+.hero-button-first {
+  box-sizing: border-box;
+  width: 218px;
+  height: 52px;
+  background: #7837f3;
+  border: 2px solid #7837f3;
+  border-radius: 100px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+}
